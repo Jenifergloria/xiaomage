@@ -8,12 +8,12 @@ public class AssigningOperatorDemo
 	{
 		//赋值运算符+=
 		int b=10;
-		    b += 5; //等于表达式: b = b + 5;
+		b += 5; //等于表达式: b = b + 5;
 		System.out.println("b的值" + b);
 		
 		//赋值运算符-=
 		int c = 20;
-			c -= 5; //等于表达式 :c = c - 5;
+		c -= 5; //等于表达式 :c = c - 5;
 		System.out.println("c的值" + c);
 	}
 }

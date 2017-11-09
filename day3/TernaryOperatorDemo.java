@@ -10,7 +10,7 @@ public class TernaryOperatorDemo
 	public static void main(String[] args)
 	{
 		//三元运算符语法及其应用
-		boolean a= 5 > 3 ? true : false;
+		int a= 5 > 3 ? 5 : 3;
 		System.out.println(a);
 
 		//四舍五入

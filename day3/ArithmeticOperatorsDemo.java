@@ -22,7 +22,7 @@ public class ArithmeticOperatorsDemo
 		System.out.println(sum4);
 		System.out.println(sum5);
 
-		//加法的特殊情况
+		//加法(+)的特殊情况
 		//字符'A'在运算时,会自动升为int整数来运算
 		System.out.println(a / c + 'A' + "lucy");
 		

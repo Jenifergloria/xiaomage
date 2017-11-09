@@ -12,8 +12,8 @@ public class SwapVarDemo
 		System.out.println("交换前a 的值是" + a);
 		System.out.println("交换前b 的值是" + b);
 		int temp = a;
-			a = (int)b;
-			b = temp;
+		a = (int)b;
+		b = temp;
 		System.out.println("交换后a 的值是" + a);
 		System.out.println("交换后b 的值是" + b);
 	}

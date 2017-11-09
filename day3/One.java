@@ -1,4 +1,8 @@
-//定义一个 int 变量存放一个三位数的正数，分别求出百位数上的值、十位数上的值和个位数上的值。
+/*
+	定义一个 int 变量存放一个三位数的正数，分别求出百位数上的值、十位数上的值和个位数上的值。
+
+
+*/
 public class One
 {
 	public static void main(String[] args)
@@ -12,7 +16,7 @@ public class One
 		System.out.println("个位数是:" + num3);
 		double  d = 3.15 + 5.6F + 100 + 99L;
 		System.out.println(d);
-	}s
+	}
 }
 
 
